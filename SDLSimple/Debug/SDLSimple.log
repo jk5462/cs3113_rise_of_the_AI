@@ -1,0 +1,14 @@
+﻿  Entity.cpp
+D:\Source Code\cs3113_rise_of_the_AI\SDLSimple\Entity.cpp(171,18): warning C4305:  '+=': 'double'에서 'float'(으)로 잘립니다.
+D:\Source Code\cs3113_rise_of_the_AI\SDLSimple\Entity.cpp(181,18): warning C4305:  '+=': 'double'에서 'float'(으)로 잘립니다.
+  main.cpp
+D:\Source Code\cs3113_rise_of_the_AI\SDLSimple\Entity.cpp(194,17): warning C4305:  '+=': 'double'에서 'float'(으)로 잘립니다.
+D:\Source Code\cs3113_rise_of_the_AI\SDLSimple\main.cpp(156,39): warning C4305:  '=': 'double'에서 'float'(으)로 잘립니다.
+D:\Source Code\cs3113_rise_of_the_AI\SDLSimple\main.cpp(159,39): warning C4305:  '=': 'double'에서 'float'(으)로 잘립니다.
+D:\Source Code\cs3113_rise_of_the_AI\SDLSimple\main.cpp(162,38): warning C4305:  '=': 'double'에서 'float'(으)로 잘립니다.
+D:\Source Code\cs3113_rise_of_the_AI\SDLSimple\main.cpp(165,39): warning C4305:  '=': 'double'에서 'float'(으)로 잘립니다.
+D:\Source Code\cs3113_rise_of_the_AI\SDLSimple\main.cpp(168,38): warning C4305:  '=': 'double'에서 'float'(으)로 잘립니다.
+  ShaderProgram.cpp
+  코드를 생성하고 있습니다...
+D:\Source Code\cs3113_rise_of_the_AI\SDLSimple\main.cpp(171,39): warning C4305:  '=': 'double'에서 'float'(으)로 잘립니다.
+  SDLSimple.vcxproj -> D:\Source Code\cs3113_rise_of_the_AI\Debug\SDLSimple.exe
